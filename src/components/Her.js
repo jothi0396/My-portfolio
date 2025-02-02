@@ -10,9 +10,9 @@ export default function Hero() {
     subtitle:
       " a Front-End Developer. Welcome to my portfolio to see my work in creating seamless digital experiences.",
     social: {
-      //   twitter: "https://twitter.com/jvlcode",
-      //   facebook: "https://facebook.com/jvlcode",
-      linkedin: "https://in.linkedin.com/company/jvl-code",
+      //   twitter: "https://twitter.com",
+      //   facebook: "https://facebook.com",
+      //   linkedin: "https://in.linkedin.com/company",
     },
   };
 
